@@ -2,4 +2,4 @@
 
 [Конфигурационный файл для Testnet](https://github.com/vostokplatform/Vostok-Releases/blob/master/configs/testnet.conf)
 
-[Документация для подключения к сети](https://github.com/vostokplatform/Vostok-Releases/releases)
+[Документация для подключения к сети](https://github.com/vostokplatform/vostok-documentation)
